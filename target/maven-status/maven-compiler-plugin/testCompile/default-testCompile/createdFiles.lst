@@ -1,0 +1,7 @@
+com\startup\doormanagement\DoorManagementApplicationTests.class
+com\startup\doormanagement\controller\UserControllerTest.class
+com\startup\doormanagement\service\AccessServiceTest.class
+com\startup\doormanagement\service\DoorServiceTest.class
+com\startup\doormanagement\controller\AccessControllerTest.class
+com\startup\doormanagement\controller\DoorControllerTest.class
+com\startup\doormanagement\service\UserServiceTest.class
